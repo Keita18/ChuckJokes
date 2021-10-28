@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chuckle</string>
+
+    <!--  About screen  -->
+    <string name="cd_just_random_image">just random image</string>
+    <string name="about_app">About app</string>
+    <string name="about_screen1">Тестовое приложение</string>
+    <string name="developer">Developer:</string>
+    <string name="developer_name">Keita AS</string>
+    <string name="developer_email">Email: askeita@yahoo.com</string>
+    <string name="developer_phone">Phone: +7(950)223–64–31</string>
+    <string name="developer_telegram">Telegram: @Keita_as</string>
+    <string name="picture">Picture</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="name_example_com">name@example.com</string>
+</resources>
